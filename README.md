@@ -52,3 +52,5 @@ dotnet run --project src/CalculadoraApp.csproj
 # Pruebas
 dotnet test tests/CalculadoraApp.Tests.csproj
 ```
+
+Cambios en dos clases y en el README
